@@ -1,0 +1,11 @@
+{
+  "title": "Braljuka",
+  "language": "Pasirinkite kalbą",
+  "policy": {
+    "intro": "Intro goes here"
+  },
+  "intro": {
+    "point1": "No Hacking braļuka!",
+    "point2": "We will sell Your data, dont ask questions!"
+  }
+}

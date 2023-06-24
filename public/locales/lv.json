@@ -1,0 +1,11 @@
+{
+  "title": "Virsraksts",
+  "language": "Izvēlies valodu",
+  "policy": {
+    "intro": "Ievads"
+  },
+  "intro": {
+    "point1": "Mums pohuj",
+    "point2": "Tavi dati tiks pārdoti visiem kam vajag"
+  }
+}

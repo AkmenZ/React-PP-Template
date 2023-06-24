@@ -1,0 +1,11 @@
+{
+  "title": "Cyka Blje",
+  "language": "Выберите язык",
+  "policy": {
+    "intro": "Pidar"
+  },
+  "intro": {
+    "point1": "Ну, погоди!",
+    "point2": "Pidar bļa suk šļuhahu vas"
+  }
+}
